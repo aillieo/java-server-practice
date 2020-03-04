@@ -1,2 +1,4 @@
 rootProject.name = 'java-server-practice'
 
+include 'login-server'
+include 'game-server'
